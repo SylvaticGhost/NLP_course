@@ -1,0 +1,11 @@
+﻿*.idea
+*.vs
+
+*.DS_Store
+
+**/html_cache
+**/data
+
+*.xlsx
+*.png
+*.csv

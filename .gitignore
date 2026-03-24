@@ -5,6 +5,8 @@
 
 **/html_cache
 **/data
+**/offtop
+**/models
 
 *.xlsx
 *.png

@@ -11,3 +11,5 @@
 *.xlsx
 *.png
 *.csv
+
+*__pycache__/

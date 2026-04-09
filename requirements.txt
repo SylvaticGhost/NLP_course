@@ -14,3 +14,6 @@ xgboost>=1.7.0
 numpy>=1.24.0
 langdetect>=1.0.9
 deep-translator>=1.11.4
+curl_cffi>=0.15.0
+vaderSentiment>=3.3.2
+textstat>=0.7.13

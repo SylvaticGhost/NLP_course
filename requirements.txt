@@ -17,3 +17,5 @@ deep-translator>=1.11.4
 curl_cffi>=0.15.0
 vaderSentiment>=3.3.2
 textstat>=0.7.13
+transformers>=4.40.0
+sentence-transformers>=2.2.2

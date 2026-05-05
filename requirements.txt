@@ -19,3 +19,14 @@ vaderSentiment>=3.3.2
 textstat>=0.7.13
 transformers>=4.40.0
 sentence-transformers>=2.2.2
+
+langchain>=0.1.0
+langchain-groq>=0.1.0
+langchain-chroma>=0.1.0
+langchain-huggingface>=0.0.1
+langchain-community>=0.0.30
+chromadb>=0.4.24
+groq>=0.5.0
+gradio>=4.20.0
+edge-tts>=6.1.9
+python-dotenv>=1.0.1

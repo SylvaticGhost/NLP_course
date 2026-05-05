@@ -7,9 +7,12 @@
 **/data
 **/offtop
 **/models
+**/volume
 
 *.xlsx
 *.png
 *.csv
 
 *__pycache__/
+
+*.env

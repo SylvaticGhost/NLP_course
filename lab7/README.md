@@ -1,0 +1,1 @@
+﻿Link: https://github.com/SylvaticGhost/archimate-glossary/tree/lab7
